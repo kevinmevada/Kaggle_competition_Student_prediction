@@ -1,0 +1,8 @@
+README.md
+setup.py
+Kaggle_competition.egg-info/PKG-INFO
+Kaggle_competition.egg-info/SOURCES.txt
+Kaggle_competition.egg-info/dependency_links.txt
+Kaggle_competition.egg-info/requires.txt
+Kaggle_competition.egg-info/top_level.txt
+src/__init__.py

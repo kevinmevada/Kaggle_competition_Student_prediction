@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: Kaggle_competition
+Version: 0.1
+Author: Kevin Mevada
+Author-email: mevadakevin@gmail.com
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: seaborn
